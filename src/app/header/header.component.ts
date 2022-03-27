@@ -7,9 +7,12 @@ import {Component} from '@angular/core';
   styles:[`
 
   a{
-    margin:5px;
+    margin:10px;
     padding:10px;
-  }`]
+  }
+
+
+  `]
 })
 
 export class HeaderComponent {
